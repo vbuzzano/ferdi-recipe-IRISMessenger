@@ -1,0 +1,13 @@
+{
+  "id": "IRISMessenger",
+  "name": "Iris Messenger",
+  "description": "Iris is like the social networking apps we're used to, but better.",
+  "version": "0.0.2",
+  "main": "index.js",
+  "author": "Vincent Buzzano",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://iris.to",
+    "hasTeamId": false
+  }
+}
